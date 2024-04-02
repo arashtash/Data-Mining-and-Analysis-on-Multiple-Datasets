@@ -24,3 +24,6 @@ Implemented and compared k-means clustering algorithms on two datasets: GiveMeSo
 Utilized scikit-learn for machine learning tasks, including Naive Bayes, Support Vector Machines, and simple neural networks.
 Applied classification techniques to predict outcomes based on observed features, helping decision-making processes.
 Libraries used: Numpy, Pandas, Scikit-learn
+
+# Author
+Arash Tashakori
