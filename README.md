@@ -27,3 +27,6 @@ Libraries used: Numpy, Pandas, Scikit-learn
 
 # Author
 Arash Tashakori
+
+# Acknowledgement
+These assignments are part of the CSCI4144 Data Mining and Warehousing course at Dalhousie University and are designed by the instructor Dr. Frank Rudzicz.
