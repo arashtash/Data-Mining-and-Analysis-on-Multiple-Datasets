@@ -25,6 +25,16 @@ Utilized scikit-learn for machine learning tasks, including Naive Bayes, Support
 Applied classification techniques to predict outcomes based on observed features, helping decision-making processes.
 Libraries used: Numpy, Pandas, Scikit-learn
 
+## Part 4: Health and Environmental Impacts of Seafood
+
+Explored the health and environmental impacts of seafood consumption using datasets related to nutrition, sustainability, and environmental factors. Utilized appropriate visualizations to investigate real-world data and derive meaningful insights.
+
+- **Nutritional Analysis:** Investigated the relationship between seafood consumption and protein intake across different continents. Analyzed the `per-capita-sources-of-protein.csv` dataset and visualized the trends in protein consumption using line charts to compare different protein sources over time.
+- **Sustainability Analysis:** Examined the sustainability of fish stocks worldwide and its correlation with seafood consumption. Utilized the `fish-stocks-within-sustainable-levels.csv` dataset and employed scatter plots to explore the relationship between seafood protein consumption and the proportion of sustainable fish stocks.
+- **Environmental Impact Analysis:** Assessed the environmental impact of various seafood species by comparing wild and farmed production methods. Analyzed the `environmental-factors.csv` dataset and used bar charts to compare greenhouse gas emissions associated with different seafood species, with a reference line for chicken as a baseline.
+
+Libraries used: Numpy, Matplotlib, Seaborn
+
 # Author
 Arash Tashakori
 
