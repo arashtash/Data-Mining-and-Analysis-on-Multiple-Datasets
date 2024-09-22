@@ -38,5 +38,7 @@ Libraries used: Numpy, Matplotlib, Seaborn
 # Author
 Arash Tashakori
 
+[Website and Contact information](https://arashtash.github.io/)
+
 # Acknowledgement
 These assignments are part of the CSCI4144 Data Mining and Warehousing course at Dalhousie University and are designed by the instructor Dr. Frank Rudzicz.
